@@ -32,5 +32,3 @@ let changeButton = function() {
         });
     });
 });
-
-
